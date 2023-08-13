@@ -28,7 +28,7 @@ echo "Installing dependencies"
 echo "-----------------------"
 echo
 
-sudo apt instaall chromium-browser -y
+sudo apt install chromium-browser -y
 
 echo
 echo "-----------------------"
