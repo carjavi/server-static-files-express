@@ -24,6 +24,14 @@ npm i child_process
 
 echo
 echo "-----------------------"
+echo "Installing dependencies"
+echo "-----------------------"
+echo
+
+sudo apt instaall chromium-browser -y
+
+echo
+echo "-----------------------"
 echo "Finished!"
 echo "-----------------------"
 echo
