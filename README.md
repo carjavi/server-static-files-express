@@ -60,7 +60,7 @@ function ExecuteChromium() {
 ## style.ccs and favicon into index.html
 ```
 <head>
-    <link rel="icon" type="/media/" href="favicon.png">
+    <link rel="icon" type="/images/" href="favicon.png">
     <link rel="stylesheet" type="text/css" href="/css/style.css">
 </head>
 ```
@@ -106,5 +106,5 @@ carjavi@hotmail.com <br>
     <a href="https://instintodigital.net/" target="_blank"><img src="./img/developer.png" height="100" alt="www.instintodigital.net"></a>
 </p>
 
-# server-static-files-express
+
 
