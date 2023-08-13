@@ -18,6 +18,8 @@ app.get('/', function (req, res) {
 });
 
 
+const server = http.createServer(app);
+
 /***** Socket IO / WebSocket  funtions  *****/
 
 server.listen(8080, function listening() {

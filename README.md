@@ -26,6 +26,7 @@ app.get('/', function (req, res) {
     res.sendFile("/build/index.html", {});
 });
 
+const server = http.createServer(app);
 
 /***** Socket IO / WebSocket  funtions  *****/
 
